@@ -4,7 +4,7 @@
 
 ## 発表する人
 - [Anorlondo448(あのーるろんど)](https://wiki.infra-workshop.tech/user/Anorlondo448)
-
+- [BEENOS株式会社](https://beenos.com/)ってところで働いています。
 
 ---
 
@@ -108,3 +108,6 @@
 
 
 ---
+
+## 最後に
+- インフラエンジニアとかWebエンジニアとか募集しているので来てくれ！！！
