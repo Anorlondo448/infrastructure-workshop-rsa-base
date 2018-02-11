@@ -25,7 +25,7 @@
 
 ---
 ## こんなイメージ
-
+![01](https://raw.githubusercontent.com/Anorlondo448/infrastructure-workshop-rsa-base/master/img/rsa_01.png "01")
 
 ---
 
@@ -42,7 +42,14 @@
 - 秘密鍵で暗号化したものは、公開鍵でしか復号化できません
 
 ---
-## こんなイメージ
+## こんなイメージ(公開鍵)
+
+![01](https://raw.githubusercontent.com/Anorlondo448/infrastructure-workshop-rsa-base/master/img/rsa_01.png "01")
+
+---
+## こんなイメージ(秘密鍵)
+
+![02](https://raw.githubusercontent.com/Anorlondo448/infrastructure-workshop-rsa-base/master/img/rsa_02.png "02")
 
 ---
 
@@ -50,3 +57,5 @@
 - 秘密鍵から公開鍵は生成できる
 - 公開鍵からは秘密鍵は生成できない
 - つまり、秘密鍵が漏れるとやばい
+
+---
